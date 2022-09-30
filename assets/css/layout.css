@@ -2,14 +2,14 @@ body {
   margin-left: 0%;
   margin-top: 0px;
   margin-right: 0px;
-  background-color: #202124;
-  color: #a9a9a9;
+  background-color: #bacaf8;
+  color:black;
   /* text-align: center; */
 }
 
 .head {
   margin-left: 20%;
-  color: #a9a9a9;
+  color:black;
   margin-top: 120px;
 }
 .actions {
@@ -28,7 +28,7 @@ body {
 }
 
 .links a {
-  color: #a9a9a9;
+  color:black;
   font-size: 20px;
 }
 
@@ -48,13 +48,13 @@ body {
 
 .headings {
   margin-left: 40%;
-  color: aliceblue;
+  color:black;
   margin-top: 10px;
 }
 
 .headingsG a {
   margin-left: 30%;
-  color: #a9a9a9;
+  color:black;
   /* aliceblue; */
   margin-top: 10px;
   text-decoration: none;
@@ -122,7 +122,7 @@ input:disabled {
   width: 50%;
 }
 .cardLinks a {
-  color: #a9a9a9;
+  color:black;
 }
 
 .scoreSub {
