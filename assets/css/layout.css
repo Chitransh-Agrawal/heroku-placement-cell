@@ -79,7 +79,7 @@ body {
 .studentCard {
   padding: 10px;
   width: 20%;
-  background-color: #191b1d;
+  background-color:aliceblue;
   margin-left: 20px;
   border-radius: 10px;
   padding-left: 20px;
@@ -122,7 +122,7 @@ input:disabled {
   width: 50%;
 }
 .cardLinks a {
-  color:lightblue;
+  color:black;
 }
 
 .scoreSub {
